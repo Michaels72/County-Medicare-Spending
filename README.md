@@ -3,8 +3,8 @@
 
 Each year see an gradual increase in total average costs.
 
-![](images/output_23_0.png)
+![](Images/output_23_0.png)
 
 It would be interesting to see why the hospital readmission rate is decreasing each year.
 
-![](images/output_27_0.png)
+![](Images/output_27_0.png)

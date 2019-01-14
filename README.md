@@ -11,4 +11,4 @@ It would be interesting to see why the hospital readmission rate is decreasing e
 
 This plot shows a comparisson of the R2 score and MSE for each model.
 
-![](Images/output_27_0.png)
+![](Images/output_81_0.png)
